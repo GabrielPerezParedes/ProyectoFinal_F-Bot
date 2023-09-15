@@ -15,7 +15,7 @@ const createChatLi = (message, className) => {
 }
 
 const generateResponse = (incomingChatLi) => {
-    const API_URL = "";
+    const API_URL = `http://127.0.0.1:8081/response/${userMessage}`;
     const messageElement = incomingChatLi.querySelector("p");
     
     const requestOptions = {
@@ -25,13 +25,12 @@ const generateResponse = (incomingChatLi) => {
             "Authorization": `Bearer ${API_KEY}`
         },
         body: JSON.stringify({
-            model: "",
-            messages: [{role: "user", content: userMessage}]
+            user_prompt: userMessage
         })
     }
 
     fetch(API_URL, requestOptions).then(res => res.json()).then(data => {
-        messageElement.textContent = data.choices[0].message.content;
+        messageElement.textContent = data.response;
     }).catch((error) => {
         messageElement.textContent = "Oops! Something went wrong. Please try again.";
     }).finally(() => chatbox.scrollTo(0, chatbox.scrollHeight));
