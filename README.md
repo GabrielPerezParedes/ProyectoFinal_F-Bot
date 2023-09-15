@@ -2,6 +2,18 @@
 
 This project has to count with the total code of the ChatBot called F-Bot for the madeira of Selected Topics in AI.
 
+Links:
+|
+Link GitHub:
+https://github.com/GabrielPerezParedes/ProyectoFinal_F-Bot.git
+
+Link Drive:
+https://drive.google.com/drive/folders/1BQsz2yPPkhj9B2iTtaeea5Cwdr9TkYVz?usp=sharing
+
+
+Link Presentacion Canva:
+https://www.canva.com/design/DAFuevTKwjU/tUjjn1sucVEYNXhr1KjWPw/edit?utm_content=DAFuevTKwjU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 In order to run the project correctly we need to install the following libraries:
 
 -- Required Librarie --
@@ -37,3 +49,11 @@ In order to run the project correctly we need to install the following libraries
 |
 |
 - The function "chat_Promt" -> "chat_Prompt("Here commes the prompt Inge", chat_history)", this is test method to check if the connection is correct with the ApiKey
+
+-- References --
+|
+|
+https://medium.com/@abdullahw72/langchain-chatbot-for-multiple-pdfs-harnessing-gpt-and-free-huggingface-llm-alternatives-9a106c239975
+|
+|
+https://www.linkedin.com/pulse/build-qa-bot-over-private-data-openai-langchain-leo-wang/
