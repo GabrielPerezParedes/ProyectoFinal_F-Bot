@@ -1,0 +1,19 @@
+¿Qué fórmula relaciona velocidad, distancia y tiempo en cinemática?
+¿Cuál es la diferencia entre velocidad y aceleración?
+¿Qué describe un movimiento uniformemente acelerado?
+¿Cómo se calcula la velocidad final de un objeto en caída libre?
+¿Qué es el desplazamiento en un movimiento rectilíneo uniforme?
+
+¿Quién es conocido como el padre de la física clásica y estableció las leyes del movimiento?
+La primera ley del movimiento, que establece que un objeto permanecerá en reposo o en movimiento uniforme a menos que una fuerza actúe sobre él, ¿a quién se le atribuye?
+¿Qué científico, conocido por sus contribuciones a la cinemática, propuso la idea de que los planetas se mueven en elipses alrededor del sol?
+Galileo Galilei, famoso por sus experimentos con rampas inclinadas, ¿qué demostró sobre la aceleración de los objetos en caída libre?
+La fórmula v=u+at relaciona la velocidad final, la velocidad inicial, la aceleración y el tiempo. ¿Qué gran científico de la física clásica ayudó en su derivación?
+
+
+### Desafio Contextualizado ###
+Si un automóvil se desplaza a una velocidad constante de 50 km/h durante 2 horas, ¿qué distancia habrá recorrido?
+Un cuerpo se lanza verticalmente hacia arriba con una velocidad inicial de 20 m/s. ¿Cuál será su altura máxima, despreciando la resistencia del aire?
+Durante un movimiento rectilíneo uniformemente acelerado, si un objeto tarda 5 segundos en alcanzar una velocidad de 30 m/s desde el reposo, ¿cuál es su aceleración?
+Si un proyectil es lanzado horizontalmente desde una altura de 80 metros con una velocidad inicial de 25 m/s, ¿cuánto tiempo tardará en tocar el suelo?
+En un tiro parabólico, si el alcance máximo es de 120 metros y la altura máxima alcanzada es de 30 metros, ¿cuál es la velocidad inicial del proyectil?
